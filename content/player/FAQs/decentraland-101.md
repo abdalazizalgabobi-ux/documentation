@@ -1,4 +1,4 @@
----
+1000---
 date: 2024-11-20
 title: Decentraland 101
 description: General Overview about Decentraland
